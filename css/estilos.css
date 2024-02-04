@@ -387,6 +387,7 @@ body {
 
 .questions__img{
     display: block;
+    transform: rotateZ(180deg);
 }
 
 .questions__copy{
