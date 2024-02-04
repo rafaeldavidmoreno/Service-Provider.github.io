@@ -364,6 +364,7 @@ body {
 
 .questions__arrow{
     border-radius: 50%;
+    background-color: var(--color-title);
     width: 25px;
     height: 25px;
     display: flex;
